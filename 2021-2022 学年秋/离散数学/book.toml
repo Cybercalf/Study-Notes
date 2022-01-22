@@ -2,7 +2,7 @@
 authors = ["Cybercalf"]
 multilingual = false
 src = "src"
-title = "2021-2022学年秋 数据结构期末复习笔记"
+title = "2021-2022学年秋 离散数学期末复习笔记"
 
 [build]
 build-dir = "book"                # the directory where the output is placed
